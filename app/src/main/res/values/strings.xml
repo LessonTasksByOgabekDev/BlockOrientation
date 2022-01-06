@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlockOrientation</string>
+    <string name="code_in_manifests_file">Code in Manifests File</string>
+</resources>
